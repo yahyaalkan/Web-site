@@ -1,0 +1,638 @@
+@media only screen and (max-width: 430px) {
+    body::-webkit-scrollbar {
+    overflow-x: hidden;
+    }
+
+    .w3-content{
+     position:relative;
+     top: -400px !important;
+     left: 130px !important;
+    }
+ 
+    .üst{
+        margin-top: 350px;
+    }
+    .üst-yazi {
+        position: relative;
+        top: -350px;
+        font-size: 25px;
+    }
+
+    .üst-p {
+        position: relative;
+        top: -320px;
+        font-size: 18px;
+        width: 350px !important;
+    }
+    .üst-yazi2 {
+        position: relative;
+        left: 150px;
+    }
+    .üst-resim {
+        position: relative;
+        top: -220px !important;
+        left: 72px !important;
+        width: 320px;
+    }
+    .demo2{
+        width: 50px !important;
+        height: 70px !important;
+    }
+
+    .orta-yazi {
+        position: relative;
+        top: -200px;
+        left: -30px;
+        font-size: 25px;
+    }
+    .orta-yazi1 {
+        position: relative;
+        top: -130px;
+        font-size: 17px;
+        width: 350px;
+    }
+    .orta-yazi2 {
+        position: relative;
+        left: 68px;
+        font-size: 25px;
+    }
+   
+    .butonlar{
+        position: relative;
+        top: 100px;
+    }
+    .orta-yazi-man{
+        position: relative;
+        top: -50px;
+    }
+ 
+   
+    .alışkanlık{
+        position: relative;
+        margin-top: 150px;
+    }
+    .women {
+        position: relative;
+        left: -0px;
+        top: 330px;
+    }
+    .erkek {
+        position: relative;
+        top: 290px;
+        left: 90px;
+    }
+    .kadin {
+        position: relative;
+        top: 325px;
+        left: 0px;
+    }
+    .orta-1 {
+        position: relative;
+        margin-top: 360px;
+    }
+    .shop-yazi {
+        position: relative;
+        top: 20px;
+        left: -50px;
+    }
+    .shop-yazi1 {
+        position: relative;
+        left: 10px;
+        top:30px;
+        font-size: 15px;
+    }
+    .slide-erkek>.slide>img {
+        position: relative;
+        width: 120px;
+        left: -5px;
+        top: 170px;
+    }
+    .alt{
+        margin-top: 420px;
+    }
+    .man>div:nth-child(2){
+        position: relative;
+        top: 120px !important;
+        margin-top: 20px !important;
+        left: 20px !important;
+    }
+    .demo{
+        position: relative;
+        margin-top: 70px;
+        width: 120px !important;
+    }
+    .man>div:nth-child(1){
+        position: relative;
+        top: 90px !important;
+        left: 150px !important;
+    }
+    .demo2{
+        width: 80px;
+        height: 115px;
+    }
+
+    .alt-yazi {
+        position: relative;
+        top: -270px;
+        left: 10px;
+    }
+    .alt-yazi1 {
+        position: relative;
+        top: -260px;
+        left: 10px;
+        font-size: 15px;
+    }
+    .alt-resim>img:nth-child(1) {
+        position: relative;
+        top: -60px;
+        left: -110px;
+        width: 120px;
+    }
+  
+    .alt-resim>img:nth-child(2) {
+        position: relative;
+        top: -40px;
+        left: -110px;
+
+        width: 80px;
+    }
+    /* .alt-bölüm {
+        position: relative;
+        top: -375px;
+    } */
+    .alt1{
+        margin-top: 180px;
+    }
+    .alt1:nth-child(1) {
+        position: relative;
+        top: -280px !important;
+        width: 370px;
+        max-height: 150px !important;
+        left: 10px;
+    }
+    .meryo-card:nth-child(1) {
+        position: relative;
+        top: -280px !important;
+        width: 370px;
+        max-height: 150px !important;
+        left: 10px;
+    }
+    .meryo-card:nth-child(2) {
+        position: relative;
+        top: -510px !important;
+        width: 370px;
+        max-height: 170px !important;
+        left: 10px;
+    }
+    .alt2>div{
+        height: 210px !important;
+    }
+    
+    .part-3{
+        margin-top: -290px !important;
+    }
+    .meryo-card:nth-child(3) {
+        position: relative;
+        top: -810px !important;
+        width: 370px;
+        max-height: 150px !important;
+        left: 10px;
+    }
+    .meryo-card{
+        margin-top: 450px;
+    }
+    .alt1:nth-child(2) {
+        position: relative;
+        width: 370px;
+        height: 150 !important;
+        left: 10px;
+        top: -90px !important;
+    }
+    .alt1:nth-child(3) {
+        position: relative;
+        padding: 0;
+        width: 370px;
+        left: 10px;
+        top: -120px;
+        height: 210px;
+    }
+    .alt1-yazi {
+        font-size: 20px;
+    }
+    .alt>div>img {
+        position: relative;
+        top: -750px;
+        left: -8px;
+        width: 380px;
+    }
+  
+.yüzdelikler{
+    position: relative;
+    top: -250px !important;
+
+}
+
+    .boost>h1 {
+        position: relative;
+        top: -110px !important;
+        font-size: 25px !important;
+        width: 350px;
+    }
+    .boost>p {
+        position: relative;
+        top: -100px;
+        width: 350px;
+    }
+    .animation {
+        position: relative;
+        top: -100px;
+        left: 200px;
+        font-size: 20px;
+    }
+    .animasyon-yazi {
+        position: relative;
+        font-size: 18px;
+        top: 0px;
+        width: 350px;
+        height: 250px;
+    }
+    .footer-yazi {
+        position: relative;
+        top: -300px;
+        width: 350px;
+        left: 10px !important;
+        font-size: 23px;
+    }
+  
+    .contact-btn {
+        position: relative;
+        top: -250px!important;
+        left: 20px !important;
+    }
+
+    .animasyon>img {
+        position: relative;
+        top: 470px;
+        left: 80px;
+    }
+    .why-meryomela {
+        position: relative;
+        left: 10px;
+        width: 380px;
+    }
+    .why-meryomela>h1 {
+        position: relative;
+        left: 60px !important;
+    }
+    .yüz-milyon {
+        position: relative;
+        top: -190px;
+        left: 50px;
+    }
+    .iki-yazi {
+        position: relative;
+        top: -100px;
+        left: 20px;
+    }
+    .üc-yazi {
+        position: relative;
+        top: 20px;
+        left: 60px;
+    }
+    .according {
+        position: relative;
+        top: -100px !important;
+        left: 10px !important;
+        width: 350px;
+        font-weight: bolder;
+    }
+    .according-div{
+        margin-top: -520px !important;
+
+    }
+    .according-img {
+        position: relative;
+        top: -30px !important;
+        left: 0px !important;
+        width: 300px;
+    }
+    .purchase-text {
+        position: relative;
+        top: -380px;
+        left: 10px;
+        font-weight: bolder;
+    }
+    .purchase-img {
+        position: relative;
+        margin-top: 50px !important;
+        top: 220px !important;
+        left: 10px !important;
+        width: 300px;
+    }
+    .virtual-text {
+        position: relative;
+        top: -40px !important;
+        left: 10px !important;
+        font-weight: bolder;
+    }
+    .virtual-img{
+        position: relative;
+        margin-top: 80px;
+        top: -90px !important;
+        left: 10px !important;
+        width: 300px;
+    }
+    .shopping-text {
+        margin-top: 150px !important;
+        position: relative;
+        top: -500px !important;
+        left: 10px !important;
+        font-weight: bolder;
+        width: 380px;
+    }
+    .shopping-img {
+        position: relative;
+        top: 350px !important;
+        left: 10px !important;
+        width: 300px;
+    }
+    .text-ar {
+        position: relative;
+        top: -200px !important;
+        left: 10px !important;
+        width: 370px !important;
+    }
+    .demo-btn {
+        position: relative;
+        top: -150px !important;
+        left: 80px !important;
+    }
+    .about-üst-yazi>h1 {
+        position: relative;
+        top: -130px !important;
+        left: -280px !important;
+    }
+    .üst-yazi1 {
+        position: relative;
+        width: 360px !important;
+        top: 0px !important;
+        left: -630px !important;
+    }
+    .üst-yazi-cizgi {
+        position: relative;
+        top: 10px !important;
+        left: -690px !important;
+    }
+    .about-üst-resim {
+        position: relative;
+        top: 10px !important;
+        left: 40px !important;
+        width: 270px;
+    }
+    .about-üst-resim1 {
+        position: relative;
+        top: 60px !important;
+        left: 40px !important;
+        width: 270px;
+    }
+    .orta-yazi-about {
+        position: relative;
+        top: -200px !important;
+        left: 10px !important;
+        width: 350px;
+    }
+    .orta-yazi-about:nth-child(2) {
+        position: relative;
+        font-size: 35px;
+        font-weight: 900;
+    }
+    .arka-plan {
+        position: relative;
+        top: 270px !important;
+    }
+    .orta-img-about {
+        position: relative;
+        top: -490px !important;
+        left: 80px !important;
+        width: 260px !important;
+    }
+    .orta-yazi4 {
+        position: relative;
+        left: 10px !important;
+        top: -100px !important;
+        font-size: 15px !important;
+        width: 350px !important;
+    }
+    .orta-yazi3 {
+        position: relative;
+        left: 10px !important;
+        top: -100px !important;
+    }
+    .customer {
+        position: relative;
+        margin-top: 120px;
+        height: 400px !important;
+    }
+  
+    .customer-resim {
+        position: relative;
+        top: 145px !important;
+        left: 45px !important;
+        width: 190px !important;
+    }
+    .customer-yazi {
+        position: relative;
+        top: -535px !important;
+        left: 150px !important;
+        font-size: 21px !important;
+        font-weight: 900;
+    }
+    .customer-yazi2 {
+        position: relative;
+        top: -550px !important;
+        width: 320px !important;
+        font-size: 17px !important;
+        left: 30px !important;
+    }
+    .customer-yazi3 {
+        position: relative;
+        top: 50px !important;
+        left: 120px !important;
+        font-size: 18px !important;
+        font-weight: 600;
+    }
+    .customer-yazi4 {
+        position: relative;
+        top: 80px !important;
+        width: 310px !important;
+        left: 25px !important;
+        font-size: 15px !important;
+        z-index: 1111;
+    }
+    .customer-yazi5 {
+        position: relative;
+        z-index: 1111;
+        top: -550px !important;
+        left: 105px !important;
+        font-size: 18px !important;
+    }
+    .customer-yazi6 {
+        position: relative;
+        top: -550px !important;
+        width: 350px!important;
+        z-index: 111;
+        left: 25px !important;
+        font-size: 13px !important;
+    }
+    .customer-yazi7 {
+        position: relative;
+        top: 30px !important;
+        width: 350px!important;
+        z-index: 111;
+        left: 135px !important;
+        font-size: 18px !important;
+    }
+    .customer-yazi8 {
+        position: relative;
+        top: 40px !important;
+        width: 370px!important;
+        z-index: 111;
+        left: 15px !important;
+        font-size: 18px !important;
+    }
+    .customer-resim2{
+        position: relative;
+        top: 50px !important;
+        left: 30px !important;
+        width: 210px;
+    }
+    .customer-resim3{
+        position: relative;
+        top: 190px !important;
+        left: 35px !important;
+        width: 210px;
+    }
+    .customer-resim4{
+        position: relative;
+        top: 195px !important;
+        left: -125px !important;
+        width: 210px;
+    }
+    .kutu-btn {
+        position: relative;
+        top: 0px !important;
+        left: 90px !important;
+       
+    }
+    .contact-form {
+        position: relative;
+        top: 300px !important;
+    }
+    .contact-form>h1{
+        font-size: 42px;
+    }
+    .contact-form>form>input{
+    width: 310px !important;
+    }
+    .animasyonlar{
+        position: relative;
+        width: 374px !important;
+    }
+    .animasyonlar-yazi{
+        position: relative;
+        left: 65px !important;
+    }
+    .animasyon1>img,.animasyon2>img,.animasyon3>img{
+        width: 80px;
+        border-radius: 15px !important;
+    }
+  
+    .contact-btn2 {
+        position: relative;
+        left: 170px !important;
+        top: -20px !important;
+    }
+    .contact-btn1 {
+        position: relative;
+        left: -10px !important;
+        top: 20px;
+    }
+    .contact-img>p {
+        position: relative;
+        left: -580px !important;
+        top: -230px !important;
+        font-size: 20px;
+        width: 310px;
+    }
+    .contact-img>img {
+        position: relative;
+        left: -580px !important;
+        top: -210px !important;
+        width: 300px;
+    }
+    .customer-footer{
+        height: 150px !important;
+    }
+    .customer-yazi9{
+        position: relative;
+        top:  0px !important;
+        left: -10px !important;
+    }
+    .yuvarlaklar>img:nth-child(1){
+        position: relative;
+top: -280px!important;
+left: 50px !important;
+        width: 270px !important;
+    }
+    .yuvarlaklar>img:nth-child(2){
+        position: relative;
+top: -220px!important;
+left: 50px !important;
+        width: 270px !important;
+    }
+    .yuvarlaklar>img:nth-child(3){
+        position: relative;
+top: -160px!important;
+left: 50px !important;
+        width: 270px !important;
+    }
+    .resim>img:nth-child(2){
+        position: relative;
+        top: 125px !important;
+        width: 90px;
+        left: -50px !important;
+    }
+    .demo-resim{
+        width: 80px !important;
+    }
+    .why-meryomela>p>span:nth-child(1){
+        position: relative;
+        left: 20px !important;
+    }
+    .why-meryomela>p>span:nth-child(3){
+        position: relative;
+        left: 20px !important;
+    }
+    .üst-yazi1>span:nth-child(1){
+        position: relative;
+        left:-40px !important;
+    }
+    .hak1{
+        position: relative;
+        left:-40px !important;
+    }
+ 
+    .hak2{
+        position: relative;
+        left:-40px !important;
+    }
+    .footer-text>p{
+        width: 390px !important;
+    }
+    .w3-button:hover,.w3-button:active{
+        background-color: #fff;
+      
+        
+    }
+ 
+}
